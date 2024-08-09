@@ -3,6 +3,8 @@
 ## Overview
 This Power BI dashboard is designed to provide a detailed analysis of sales performance for a coffee shop chain. It incorporates various metrics to offer a comprehensive overview of sales data across different time frames and product categories. The dashboard helps in identifying trends, peak sales hours, and top-performing products, which are crucial for strategic business decisions.
 
+![image](coffeeSales.png)
+
 ## Key Features
 ### Summary Dashboard
 * Total Sales and Orders Overview: Displays the total sales, number of orders, and total quantity sold, with month-over-month comparison.
@@ -12,7 +14,13 @@ This Power BI dashboard is designed to provide a detailed analysis of sales perf
 * Sales by Days and Hours: Analyzes sales distribution across different days of the week and hours of the day, pinpointing peak business hours.
 ### Interactive Tooltips
 * Calendar Chart Tooltip: Provides a quick snapshot of sales, orders, and quantity for any selected day, offering deeper insight into daily performance.
+
+  ![image](calenderTooltip.png)
+  
 * Hourly Sales Tooltip: Delivers specific details about sales, orders, and quantity for each hour, useful for identifying the most lucrative hours and planning operational hours accordingly.
+
+  ![image](hourlyTooltip.png)
+  
 ### Data Insights
 * Sales Performance Tracking: Monitors sales growth and identifies successful product lines and time periods with high customer engagement.
 * Operational Adjustments: Insights from the hourly data and weekday/weekend sales can inform staffing decisions and promotional strategies to maximize revenue.
